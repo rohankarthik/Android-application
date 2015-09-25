@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assigntwo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">ListFragmentActivity</string>
+    <string name="title_activity_date">DateActivity</string>
+    <string name="title_activity_keyboard">KeyboardActivity</string>
+    <string name="title_activity_spin">SpinActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="activityselection">GO</string>
+    <string name="PickButton">Pick a Date</string>
+    <string name="ConfirmButton">Confirm</string>
+    <string name="DisplayText">Will Display date after Selection</string>
+    <string name="Hide">Hide</string>
+    <string name="Back">Back</string>
+    <string name="backbutton">Back</string>
+    <string name="editText2">Text Field</string>
+    <string name="editText3">Text Field</string>
+    <string name="date_settings">Date</string>
+    <string name="key_settings">Keypad</string>
+    <string name="list_settings">Deserts</string>
+    <string name="actionitem1">SplitBarOption</string>
+    <string name="actionitem2">Option2</string>
+    <string name="actionitem3">Option3</string>
+
+
+</resources>
